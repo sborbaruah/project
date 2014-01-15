@@ -1,0 +1,46 @@
+ 
+?Fix the UI of the back button in the main editing pageMilestone 4
+
+testing the download button dropdown menu
+
+testing the upload button dropdown menu
+
+testing niput by user when updating the list
+
+compatability with internet explorer 
+
+
+
+Milestone 2
+
+handle the sort order of an option when adding it
+
+the second option shouldnt have an up button beside it
+
+the first field shouldnt have any control buttons beside it
+
+getting the sort order variables as an undefined
+
+the edit buttons beside the travel hours is not working 
+
+the edit buttons beside the education horus is not working
+
+not reading the new value from text box when adding
+
+show the up and down buttons beside each option in the specified editing page
+
+fix the UI of the add and save buttons in the specified editing page
+
+append the add buttons beside the new option text field in the specified editing page
+
+fix the back button of the specified editing page
+
+append the label of the edited field back to its origianl location in the main editing page
+
+fix the UI of the editing page
+
+the editing page of a specific field shou ddisplay the options of that field
+
+The editing page of a specific field should list the label of the field
+41 
+?The back button in the editing page of a specific field should direct the user to the main editing page and not to the original pagr

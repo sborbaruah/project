@@ -1,0 +1,18 @@
+functions list for unit testing
+
+design.js
+
+1) functions that creates initial page
+
+function(){
+	quickforms.designer = {
+		values : {},
+		newId : -1
+	};
+
+
+
+
+2)function used to reload form that is to be edited in EDIT MODE (Edit btuton beside each select field)
+
+
