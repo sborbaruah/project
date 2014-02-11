@@ -2,4 +2,3 @@ language: node_js
 node_js:
   - 0.10 
 
-script: node_js 'palis3/test/QUnit.js' //run  -c //'Code/tests/codeception.yml'
